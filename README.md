@@ -1,0 +1,1 @@
+# realworld-static-cicd
